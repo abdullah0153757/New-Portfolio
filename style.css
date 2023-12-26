@@ -1,0 +1,83 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+
+#logo{
+    width: 198.07px;
+    height: 59px;
+    top: 30px;
+    left: 212px;
+}
+h6{
+    color: tomato;
+}
+
+.highlite{
+    color: #21B573;
+}
+
+p{
+    color: dimgray;
+}
+.link-button{
+    color: white;
+    background-color: #21B573;
+    text-decoration: none;
+    border-radius: 14px;
+    padding: 8px 10px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+
+.half-width img{
+    width: 100%;
+}
+    
+
+
+.section{
+    display: flex;
+    
+    bottom: 20px;
+
+    
+
+}
+.box-1 a{
+   text-decoration: none;
+   color: black;
+   margin: 7px;
+}
+
+.box-2 a{
+    text-decoration: none;
+    color: black;
+    margin: 7px;
+ }
+
+ .box-3 a{
+    text-decoration: none;
+    color: black;
+    margin: 7px;
+ }
+ .box-4 a{
+    text-decoration: none;
+    color: black;
+    margin: 7px;
+ }
+ .box-5 a{
+    text-decoration: none;
+    color: black;
+    margin: 7px;
+    background-color: #21B573;
+    border-radius: 15px;
+    padding: 6px 9px;
+    
+ }
