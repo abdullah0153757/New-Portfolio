@@ -1,6 +1,7 @@
 body{
     font-family: 'Lato', sans-serif;
 font-family: 'Poppins', sans-serif;
+background-color: #F0FFF0;
 }
 
 
@@ -47,9 +48,12 @@ p{
     
     bottom: 20px;
 
-    
-
 }
+section{
+    padding-bottom: 100px;
+    height: 500px;
+}
+
 .box-1 a{
    text-decoration: none;
    color: black;
@@ -79,5 +83,20 @@ p{
     background-color: #21B573;
     border-radius: 15px;
     padding: 6px 9px;
+    
+ }
+
+ .nd-floot img{
+    width: 100%;
+
+ }
+
+ .column{
+    width: 15%;
+    float: left;
+    margin-left: 50px;
+    
+    padding-left: 40px;
+   
     
  }
